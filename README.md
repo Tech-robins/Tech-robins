@@ -5,9 +5,10 @@
 <h1 align="center">Hi 👋, I'm Robins</h1>
 <h3 align="center">A passionate with AIML from India</h3>
 <h3 align="left">About Me:</h3>
+
 Aspiring Software Engineer with expertise in Python, Machine Learning, Computer Vision, and Database Manage-
 ment. Passionate about developing efficient and scalable solutions in fast-paced environments. Seeking an opportunity
-to leverage my technical skills & problem-solving abilities to contribute effectively to a dynamic. organization.
+to leverage my technical skills & problem-solving abilities to contribute effectively to a dynamic organization.
 
 
 
