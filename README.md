@@ -21,7 +21,7 @@ to leverage my technical skills & problem-solving abilities to contribute effect
 
 - 📄 Know about my experiences [https://www.overleaf.com/read/vvzkqkmspwpy#a29a32](https://www.overleaf.com/read/vvzkqkmspwpy#a29a32)
 
-- ⚡ Fun fact **I think I am roster**
+- ⚡ Fun fact **I am always looking for smart work**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
