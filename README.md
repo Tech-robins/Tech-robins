@@ -2,7 +2,7 @@
 <h3 align="center">A passionate with AIML from India</h3>
 
 
-- 🌱 I’m currently learning **Python , DSA, Vibe coding, Prompting engineer,**
+- 🌱 I’m currently learning **Python , DSA, Vibe coding, Prompting engineering, etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Tech-robins](https://github.com/Tech-robins)
 
