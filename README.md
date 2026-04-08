@@ -34,7 +34,7 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Tech-robins">
 </a>
-<a href="https://github.com/Tech-robins?tab=followers"><img src="https://img.shields.io/github/followers/AnkitRaj5ar?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Tech-robins?tab=followers"><img src="https://img.shields.io/github/followers/Tech-robins?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
